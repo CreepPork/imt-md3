@@ -5,7 +5,7 @@ title: 'Gaming PC Build'
 author: 2a0c357b-927c-4ba6-8058-cd04899049ea
 template: page
 updated_by: 2a0c357b-927c-4ba6-8058-cd04899049ea
-updated_at: 1682666333
+updated_at: 1682666636
 ---
 Starting with the CPU, the i5 12600KF is a top-of-the-line processor from Intel's 12th generation of CPUs. It boasts 12 cores and 20 threads, making it an excellent choice for heavy multitasking and demanding applications. The processor has a base clock speed of 3.9GHz, which can be boosted up to 4.9GHz for even faster performance.
 
@@ -21,4 +21,4 @@ The NZXT H510 matte black case is a sleek and modern case that features a temper
 
 Finally, the Kingston fury beast black 4x8GB DDR4 3600MHZ RAM provides a total of 32GB of memory for your system. It is designed to provide fast and efficient performance, allowing your system to handle multiple applications and tasks simultaneously without any slowdowns.
 
-![](https://md3.imt.garkaklis.com/assets/sandrispc.jpeg)
+![pc build, gaming pc, desktop pc, custom build](https://md3.imt.garkaklis.com/assets/sandrispc.jpeg)

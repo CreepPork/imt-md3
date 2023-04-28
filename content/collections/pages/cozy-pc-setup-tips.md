@@ -4,7 +4,7 @@ blueprint: page
 title: 'Cozy PC Setup Tips'
 author: 2a0c357b-927c-4ba6-8058-cd04899049ea
 updated_by: 2a0c357b-927c-4ba6-8058-cd04899049ea
-updated_at: 1682666392
+updated_at: 1682666722
 template: page
 ---
 ## have plenty of desk space
@@ -32,4 +32,4 @@ People like shiny things, and LEDs are pretty cheap and usually can be turned on
 ## all together
 These are the tips I can give to make a pretty cozy setup, here's a picture of my desk
 
-![](https://md3.imt.garkaklis.com/assets/untitled.jpeg)
+![cozy setup, environment, tips](https://md3.imt.garkaklis.com/assets/untitled.jpeg)
