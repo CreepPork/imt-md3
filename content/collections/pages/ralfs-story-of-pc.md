@@ -4,8 +4,8 @@ blueprint: page
 title: 'Ralfs Story of his PC'
 author: 2a0c357b-927c-4ba6-8058-cd04899049ea
 updated_by: 2a0c357b-927c-4ba6-8058-cd04899049ea
-updated_at: 1682661414
-template: home
+updated_at: 1682663983
+template: page
 ---
 The AMD Ryzen 5 1600x CPU stood tall and proud, basking in the glory of its powerful processing capabilities. Its Corsair H100i CPU Cooler was a work of art, keeping it cool under the most intense of circumstances. And nestled within its Asus Prime X370-Pro Motherboard was an array of 32GB Corsair Vengeance DDR4 RAM, ready to tackle any task you could throw at it.
 
