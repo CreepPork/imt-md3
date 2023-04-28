@@ -1,10 +1,10 @@
 ---
 id: 20484c46-6635-40df-9ae9-67021dad99a5
 blueprint: page
-title: "Peter's advice for creating the coziest PC setup"
+title: 'Cozy PC Setup Tips'
 author: 2a0c357b-927c-4ba6-8058-cd04899049ea
 updated_by: 2a0c357b-927c-4ba6-8058-cd04899049ea
-updated_at: 1682664288
+updated_at: 1682666392
 template: page
 ---
 ## have plenty of desk space

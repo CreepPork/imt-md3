@@ -1,10 +1,10 @@
 ---
 id: cf74d61f-a148-491f-bd46-bcb0ba20d7d5
 blueprint: page
-title: 'Verners built me. Story of laptop.'
+title: 'Graphic Design PC Build'
 author: 2a0c357b-927c-4ba6-8058-cd04899049ea
 updated_by: 2a0c357b-927c-4ba6-8058-cd04899049ea
-updated_at: 1682664529
+updated_at: 1682666357
 template: page
 ---
 The Intel Core i7-9750H is a high-end laptop processor. The processor clocks at 2.6 GHz and can execute up to twelve threads simultaneously thanks to Hyper-Threading. According to Intel, the CPU is manufactured in an improved 14nm (14nm++) process. Compared to the predecessor, the Core i7-8750H, the 9750H offers improved clock rates and a larger L3 cache.
